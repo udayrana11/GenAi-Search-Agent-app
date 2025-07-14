@@ -1,0 +1,17 @@
+# Ignore Python cache and environment
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Ignore environment files
+.env
+
+# Ignore Streamlit & VS Code
+.streamlit/
+.vscode/
